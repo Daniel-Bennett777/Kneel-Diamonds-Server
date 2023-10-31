@@ -1,0 +1,11 @@
+{
+    "saveAndRunExt": {
+        "commands": [
+            {
+                "match": "\\.(py$)",
+                "isShellCommand": false,
+                "cmd": ""
+            }
+        ]
+    }
+}
